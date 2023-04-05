@@ -11,3 +11,17 @@
     margin-top: 1.7rem;
     margin-bottom: 1rem;
 }
+
+.language{
+    display:inline-flex;
+    margin: auto;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.language span{
+    font-size: .8rem;
+    font-family: Roboto,Arial,sans-serif;
+    margin-right: .6rem;
+    color: rgb(99, 99, 99);
+}

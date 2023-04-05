@@ -1,0 +1,30 @@
+.first{
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+    background-color: rgb(231, 231, 231);
+    margin-top: 6.5rem;
+}
+
+.second{
+    padding: 15px 30px;
+    font-size: 15px;
+    color: #70757a;
+    background-color: rgb(231, 231, 231);
+    display: flex;
+    justify-content: space-between;
+}
+
+.add{
+    display: flex;
+}
+
+.leaf{
+    display: flex;
+    margin-left: -9rem;
+}
+
+.set{
+    display: flex;
+}
