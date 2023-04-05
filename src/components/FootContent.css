@@ -1,0 +1,8 @@
+.under{
+    margin-right: 1rem;
+    cursor: pointer;
+}
+
+.under:hover{
+    text-decoration: underline;
+}

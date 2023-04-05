@@ -1,0 +1,11 @@
+.lang{
+    font-size: .8rem;
+    cursor: pointer;
+    font-family: Roboto,Arial,sans-serif;
+    color: #1a0dab;
+    margin-right: .6rem;
+}
+
+.lang:hover{
+    text-decoration: underline;
+}
