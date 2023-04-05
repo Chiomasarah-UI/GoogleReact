@@ -8,7 +8,6 @@ export default function GoogleApp(){
         <div className="app">
             <Header/>
             <Main/>
-            <Footer/>
         </div>
     )
 }

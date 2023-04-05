@@ -1,0 +1,17 @@
+.things{
+    font-family: Roboto,Arial,sans-serif;
+    font-size: .9rem;
+    padding: .6rem;
+    width: auto;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    cursor: pointer;
+    margin: auto;
+    border: 1px solid transparent;
+}
+
+.things:hover{
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+}

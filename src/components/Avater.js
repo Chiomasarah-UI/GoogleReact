@@ -5,8 +5,8 @@ export default function Avater() {
     return(
         <div>
             <img src={avater} alt="App launcher icon" style={{
-            height:"48px", 
-            width:"48px", 
+            height:"40px", 
+            width:"40px", 
             borderRadius:"3rem", 
             border:".157rem solid",
             padding:"2px",
