@@ -1,0 +1,18 @@
+.content{
+    width:40%; 
+    border:1px solid; 
+    border-color:#d1d1d1;
+    border-radius:2rem;
+    height:2.7rem;
+    margin:auto; 
+    margin-top:2rem; 
+    display: flex;
+    justify-content:space-between;
+
+}
+
+.content:hover{
+    background-color: #fff;
+    box-shadow: 0 1px 6px rgba(32,33,36,.28);
+    border-color: rgba(223,225,229,0);
+}

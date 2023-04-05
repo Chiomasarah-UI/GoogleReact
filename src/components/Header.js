@@ -4,9 +4,13 @@ import Menu from "./Menu";
 
 export default function Header(){
     return (
-        <div style={{display: "flex", justifyContent:"flex-end", padding:"2rem"}} >
+        <div style={{display: "flex", 
+        justifyContent:"flex-end", 
+        padding:"2rem",
+        
+        }} >
         <Menu title={"Gmail"}/>
-        <Menu title={"Mirror"}/>
+        <Menu title={"Images"}/>
         <AppIcon/>
         <Avater/>
         </div>
