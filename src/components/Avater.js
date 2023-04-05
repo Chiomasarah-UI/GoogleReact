@@ -1,12 +1,20 @@
 import React from 'react';
-import Profile from  '../images/Profile.jpg';
+import avater from  '../images/AvaterPic.jpg';
 
 export default function Avater() {
     return(
         <div>
-            <img src={Profile} alt="App launcher icon" style={{height:"50px", width:"50px", borderRadius:"3rem", border:"3px solid",
+            <img src={avater} alt="App launcher icon" style={{
+            height:"48px", 
+            width:"48px", 
+            borderRadius:"3rem", 
+            border:".157rem solid",
             padding:"2px",
-            marginTop:"-.5rem"
+            borderTopColor:"red",           
+            borderBottomColor: "green",
+            borderRightColor:"blue",
+            borderLeftColor:"yellow",
+            marginTop:"-.9rem"
         }}/>
         </div>
     )
