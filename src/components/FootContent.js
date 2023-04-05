@@ -2,7 +2,7 @@ import './FootContent.css'
 
 export default function FootContent(props){
     return (
-        <div>
+        <div className='under'>
         {props.title}
         </div>
     )

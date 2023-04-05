@@ -8,7 +8,7 @@ export default function GoogleApp(){
         <div className="app">
             <Header/>
             <Main/>
-            <Footer style={{marginTop:"3rem"}}/>
+            <Footer/>
         </div>
     )
 }

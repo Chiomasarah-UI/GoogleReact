@@ -1,7 +1,8 @@
-div{
+.under{
     margin-right: 1rem;
+    cursor: pointer;
 }
 
-div:hover{
+.under:hover{
     text-decoration: underline;
 }
